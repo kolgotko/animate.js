@@ -1,0 +1,29 @@
+{
+  "name": "animate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kolgotko/animate.js.git"
+  },
+  "author": "kolgotko",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-plugin-transform-es2015-modules-umd": "^6.22.0",
+    "babel-preset-env": "^1.1.8",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2",
+    "gulp-concat-sourcemap": "^1.3.1",
+    "gulp-jsmin": "^0.1.5",
+    "gulp-rename": "^1.2.2",
+    "gulp-sourcemaps": "^2.4.0"
+  },
+  "bugs": {
+    "url": "https://github.com/kolgotko/animate.js/issues"
+  },
+  "homepage": "https://github.com/kolgotko/animate.js#readme"
+}
